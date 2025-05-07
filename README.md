@@ -1,9 +1,9 @@
 # pythonLearning
 
 
-Assignment 1
+Assignment 1 
 
-      Task 1
+      Task 1 <<filename: <<filename: _mathsOperation.py_>>>>
          Take two integers as user inout and then perform the following mathematical operations on them.
            1. Addition
            2. Substraction
@@ -12,13 +12,13 @@ Assignment 1
 
            And finally the print the result in the below format
           #>>
-            Addition 
-            Substraction 
-            Multiplication
-            Division
+            Addition  _result_
+            Substraction _result_
+            Multiplication _result_
+            Division _result_
       
             
-      Task 2 
+      Task 2 <<filename: _invitation.py_>>
 
-         #Print a invitation with first and last names as user inputs and then concat the inputs to print result in the following format
-         #>> Hello John doe!. Welcome to the python program.
+         #Prints a invitation with first and last names as user inputs and then concat the inputs to print result in the following format
+        ** #>> Hello John doe!. Welcome to the python program.**
